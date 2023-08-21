@@ -15,7 +15,7 @@ public class Main {
         prop.put("mail.smtp.starttls.enable","true");
 
         String uname="rajputkiran534";
-        String pass="tfrglzpmswniosxb";
+        String pass="your password";
 
         Session session=Session.getInstance(prop, new Authenticator() {
             @Override
