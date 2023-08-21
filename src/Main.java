@@ -4,7 +4,7 @@ import jakarta.mail.internet.MimeMessage;
 
 import  java.util.Properties;
 public class Main {
-    static String receiver ="anishsingh.r87@gmail.com",sender="rajputkiran534@gmail.com",subject="try mail via java",body="" +
+    static String receiver ="anishsingh.r87@gmail.com",sender="sendermail@gmail.com",subject="try mail via java",body="" +
             "hey anish how are your,";
     static boolean send(String to,String from,String sub,String body){
         boolean flag=false;
